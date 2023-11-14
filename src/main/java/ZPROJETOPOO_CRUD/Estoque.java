@@ -1,10 +1,8 @@
-/*
- * (produto, quantidade, armazen, prateleira…)
- */
+
 package ZPROJETOPOO_CRUD;
 
 
-public class Estoque {            //instaciar o estoque na main pra fazer conexão com produtos e adicionar no arraylist
+public class Estoque {           
    private String nomeProduto;
    private int quantidade;
    private String corredor;
