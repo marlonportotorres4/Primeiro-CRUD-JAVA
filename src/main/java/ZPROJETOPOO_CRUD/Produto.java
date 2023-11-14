@@ -1,6 +1,4 @@
-/*
- * (id, código, nome, descrição, fornecedor, dataCadastro
- */
+
 package ZPROJETOPOO_CRUD;
 
 
